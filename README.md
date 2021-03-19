@@ -71,5 +71,15 @@ node index.js
 
 ---
 
-### Setp 5
+### Step 5
 ##### Go to http://your.website.com/home and **enjoy**
+
+
+
+
+> Want help?
+- Add me on Discord **`!             Toshinori#6192`**
+
+
+## **Project SOON**
+
