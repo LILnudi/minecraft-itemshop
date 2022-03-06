@@ -7,7 +7,7 @@
 - Node.js
 - Discord bot (optional)
 - CSS
-- EJS
+- React
 
 
 # Introduction
